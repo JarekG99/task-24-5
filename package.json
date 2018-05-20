@@ -1,0 +1,26 @@
+{
+  "name": "task-24-5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test1": "mocha calculateDistancePoints.test.js",
+    "test2": "mocha calculateStylePoints.test.js",
+    "test3": "mocha calculateTotalPoints.test.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JarekG99/task-24-5.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JarekG99/task-24-5/issues"
+  },
+  "homepage": "https://github.com/JarekG99/task-24-5#readme",
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
+}
